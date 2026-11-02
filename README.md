@@ -133,3 +133,4 @@ print("Result: FSO atmospheric attenuation simulated.")
 
   
 ## Result
+The free-space optical communication link was successfully implemented and analyzed using Python simulation. The transmission of optical signals from the laser/LED transmitter to the photodiode/APD receiver was studied, and the effect of free-space propagation loss on received signal strength was observed.
